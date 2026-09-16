@@ -1,5 +1,24 @@
-# CHANGELOG for Bitbank's API (2022-11-09)
+# CHANGELOG for Bitbank's API (2022-12-15)
 
+## 2022-12-15
+* Added description about REST API rate limit
+* Added sequenceId, applying instruction and caveats about depth to Public Stream
+
+---
+## 2022-12-07
+* Added new pairs to
+  * `pairs.md`
+  * `assets.md`
+
+---
+## 2022-12-01
+* Added an error code 50037 to `errors.md` and `errors_JP.md`
+
+---
+## 2022-11-10
+* Auto disconnection is abolished
+
+---
 ## 2022-11-09
 * Added new pairs to
   * `pairs.md`
